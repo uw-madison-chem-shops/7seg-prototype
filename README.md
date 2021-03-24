@@ -2,6 +2,19 @@
 
 Prototype board for playing with board-mount 7-segment displays.
 
+## Repository
+
+This is an open source hardware project licensed under the CERN Open Hardware Licence Version 2 - Permissive.
+Please see the LICENSE file for the complete license.
+
+This repository is being mirrored to several version control systems in an attempt to ensure maximum avaliability.
+
+| name           | url                                                     |
+| -------------- | ------------------------------------------------------- | 
+| Chem (primary) | https://git.chem.wisc.edu/shop/7seg-prototype           |
+| GitHub         | https://github.com/uw-madison-chem-shops/7seg-prototype | 
+| GitLab         | https://gitlab.com/uw-madison-chem-shops/7seg-prototype |
+
 ## PCB
 
 This PCB was designed using KiCAD version 5.
@@ -31,7 +44,3 @@ Bill of Materials
 #### Added
 - initial design
 
-## Licensed
-
-This is an open source hardware project licensed under the CERN Open Hardware Licence Version 2 - Permissive.
-Please see the LICENSE file for the complete license.
