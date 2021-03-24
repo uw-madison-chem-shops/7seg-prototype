@@ -25,7 +25,7 @@ PCB images generated with [tracespace](https://github.com/tracespace/tracespace)
 
 ![bottom](./bottom.png "PCB bottom view")
 
-Bill of Materials
+## Bill of Materials
 
 | reference      | value         | manufacturer  | part number          | vendors |
 | :------------- | :------------ | :------------ | :------------------- | :------ |
@@ -36,6 +36,12 @@ Bill of Materials
 | J1-J5          | Test Point    |               |                      |         |
 | R2             | 100k          |               |                      |         |
 | U3             | Driver Chip   | Maxim         | MAX6951CEE+          | [DigiKey](https://www.digikey.com/en/products/detail/maxim-integrated/MAX6951CEE-T/5640031) [Newark](https://www.newark.com/maxim-integrated-products/max6951cee/led-driver-smd-8mhz-qsop-16/dp/81Y9572?rpsku=rel1%3AMAX6951CEET) [Mouser](https://www.mouser.com/ProductDetail/?qs=1THa7WoU59G039lytpTsUQ%3D%3D) |
+
+## Firmware
+
+You may find an ino file in the "firmware" folder.
+Upload this to an Arduino to make an easy test driver for this prototype.
+Wire the prototype board like an SPI peripheral.
 
 ## Changelog
 
