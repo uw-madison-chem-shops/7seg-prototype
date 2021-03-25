@@ -21,9 +21,9 @@ This PCB was designed using KiCAD version 5.
 Refer to `7seg-prototype.pdf` for schematic.
 PCB images generated with [tracespace](https://github.com/tracespace/tracespace) follow.
 
-![top](./top.png "PCB top view")
+![top](./7seg-prototype-.top.svg "PCB top view")
 
-![bottom](./bottom.png "PCB bottom view")
+![bottom](./7seg-prototype-.bottom.svg "PCB bottom view")
 
 ## Bill of Materials
 
